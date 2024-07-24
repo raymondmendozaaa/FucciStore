@@ -1,0 +1,39 @@
+body {
+    background-image: url(./images/gucci-background.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    padding-top: 130px;
+}
+#WhatsNewButton {
+    display: block;
+    margin: auto;
+    margin-top: 600px;
+}
+.social {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+}
+.icons {
+    display: flex;
+    list-style: none;
+    flex-wrap: wrap;
+    margin-top: 10px;
+    margin-right: 40px;
+    
+}
+.footer {
+    display: flex;
+    justify-content: center;
+    margin: 2rem 0;
+}
+span.top-icons {
+    padding-left: 1px;
+    padding-right: 1px;
+}
+span {
+    padding-left: 20px;
+    padding-right: 20px;
+}
