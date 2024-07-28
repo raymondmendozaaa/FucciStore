@@ -12,6 +12,6 @@ The page is super easy to navigate through, just simply click any of the tabs on
 * I would like to add a favorites list section
 * I would like to add a shopping cart section
 # User Stories
-* “As the owner, I would like to make it easy to navigate throughout the page/app”
-* “As the owner of a clothing business, I would like to make it easy for customers to contact us, just in case there may be any questions or concerns”
-* “As an existing customer, I would like to get in touch with the business’ social media platforms so that I can see the latest drops and more.”
+* “As a male online shopper, I would like to easily find the mens section of clothes so that I can find what I am looking for without having to waste as much time.”
+* “As a clothes enthusiast, I would like to have a way to get the companies' social media platforms so that I can keep up with the latest drops/news"
+* “As an existing customer, I would like to get in touch with the business’ email to get in contact with questions or concerns that I may have.”
